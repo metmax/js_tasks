@@ -14,6 +14,6 @@ var i;
 var x="#";
 console.log(x);
 for (i=0; i<=5; i++) {
-    x=x+"#";
+    x += "#";
     console.log(x);
 }
